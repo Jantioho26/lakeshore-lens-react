@@ -9,9 +9,9 @@
 
 ## How to run 
 
-git clone https://github.com/Jantioho26/lakeshore-lens-react.git
-cd lakeshore-lens-react 
-npm install 
+- git clone https://github.com/Jantioho26/lakeshore-lens-react.git
+- cd lakeshore-lens-react 
+- npm install 
 
 ## Features 
 
