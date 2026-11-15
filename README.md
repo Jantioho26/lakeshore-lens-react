@@ -1,4 +1,4 @@
-# Created with React + Vite
+# Lakeshore Lens Co. Created with React + Vite
 
 - React 19.2.8
 - Vite 8.2.2
