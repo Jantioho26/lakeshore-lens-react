@@ -1,16 +1,25 @@
-# React + Vite
+# Created with React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- React 19.2.8
+- Vite 8.2.2
+- React Router Dom
+- es-lint react hook
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
+## How to run 
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+git clone https://github.com/Jantioho26/lakeshore-lens-react.git
+cd lakeshore-lens-react 
+npm install 
 
-## Expanding the ESLint configuration
+## Features 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Lakeshore Lens Co is a sample page for photographers to rent different lenses. Search and filter through lens brands, or photography style and check out the details and specs of the lenses. 
+
+<img width="1403" height="649" alt="Screenshot 2026-11-15 at 6 31 23 PM" src="https://github.com/user-attachments/assets/ed239aff-e8db-447d-9808-31e83dacfe0b" />
+
+<br /> 
+
+<img width="1392" height="620" alt="Screenshot 2026-11-15 at 6 31 48 PM" src="https://github.com/user-attachments/assets/751e931c-f7a6-47a1-a7a0-d408ee9c938e" />
+
