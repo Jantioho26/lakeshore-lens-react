@@ -15,7 +15,15 @@
 
 ## Features 
 
-Lakeshore Lens Co is a sample page for photographers to rent different lenses. Search and filter through lens brands, or photography style and check out the details and specs of the lenses. 
+-**Interactive Lens Catalog**: Browse a collection of camera lenses with detailed specifications and descriptions.
+
+-**Search Functionality**: Quickly find lenses by name, brand, type, or photography style.
+
+-**Dynamic Filtering**: Narrow down lens options to find equipment that matches your photography needs.
+
+-**Responsive Design**: Clean, user-friendly layout optimized for desktop and mobile devices.
+
+-**Interactive UI**: Smooth navigation, hover effects, and visually appealing product cards for an engaging browsing experience.
 
 <img width="1403" height="649" alt="Screenshot 2026-11-15 at 6 31 23 PM" src="https://github.com/user-attachments/assets/ed239aff-e8db-447d-9808-31e83dacfe0b" />
 
