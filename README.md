@@ -31,3 +31,26 @@
 
 <img width="1392" height="620" alt="Screenshot 2026-11-15 at 6 31 48 PM" src="https://github.com/user-attachments/assets/751e931c-f7a6-47a1-a7a0-d408ee9c938e" />
 
+
+## Performance Optimization
+
+Improved mobile performance using Google Lighthouse to identify and resolve image-loading bottlenecks.
+
+**Optimizations implemented:**
+- Converted the hero background image from PNG to WebP.
+- Resized the image from 6000px to 1920px wide.
+- Reduced the hero image file size from 3.1 MB to 445 KB (86% reduction).
+- Updated CSS and image preloading to prioritize the optimized asset.
+
+### Lighthouse Results (Mobile)
+
+| Metric | Before | After |
+|---|---|---|
+| Performance Score | 70 | **98** |
+| Largest Contentful Paint | 18.0s | **2.3s** |
+| First Contentful Paint | 1.2s | **0.8s** |
+| Speed Index | 5.6s | **0.8s** |
+| Total Blocking Time | 0ms | **0ms** |
+
+*Results measured using Google Lighthouse with simulated mobile conditions. Individual test results may vary.*
+
